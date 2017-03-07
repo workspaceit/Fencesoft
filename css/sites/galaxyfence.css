@@ -1,0 +1,17 @@
+/* Fencesoft Network Branding */
+/* body {background-color:#f7f7f7; background-image:-moz-linear-gradient(center top , #fefefe, #dfe8da); background-repeat:no-repeat; background-attachment:fixed;} */
+body {background:#e4e8f1;}
+.fs-logo {margin:20px 0 0 0; border:5px solid #fff; box-shadow:2px 3px 3px #666;}
+a, .navbar ul li > a, .forget-pass a, i#tool-qtip {color:#062134;}
+.forget-pass a:hover, i:hover#tool-qtip {color:#c03d20;}
+.ui-slider .ui-slider-range {background-color:#062134; background-image:-moz-linear-gradient(center top, #0a3655, #062134); background-image:linear-gradient(#0a3655, #062134) !important;}
+.primary.btn {background-image:linear-gradient(#0a3655, #062134) !important; border:1px solid #062134 !important; box-shadow:0 0 3px #0a3655 inset !important;}
+div:hover.primary.btn {background-image:linear-gradient(#0d4b76, #062134) !important;}
+/* .solo-banner, .copy2 {line-height:24px; !important; padding:5px 0 !important; margin:0 0 20px 0 !important;} */
+ul.image_picker_selector li:hover, ul.thumbnails.image_picker_selector li .thumbnail.selected {background:#062134;}
+ul.image_picker_selector h3 {color:#062134;}
+
+/* Material Selection */
+/* .select-box {min-height:340px; max-height:340px; background:url('../images/dummy-select.jpg') no-repeat center center transparent; background-size:100% 100%;}
+h4.filter-header {display:none;}
+label[for=ChainlinkFences] {display:block;} */

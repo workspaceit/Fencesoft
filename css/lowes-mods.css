@@ -1,0 +1,12 @@
+/* Lowe's Network Branding */
+body {background:#e4e8f1;}
+.fs-logo {margin:10px 0 10px 0;}
+a, .navbar ul li > a, .forget-pass a, i#tool-qtip {color:#004990;}
+.forget-pass a:hover, i:hover#tool-qtip {color:#c03d20;}
+.ui-slider .ui-slider-range {background-color:#004990; background-image:-moz-linear-gradient(center top, #049CDB, #004990); background-image:linear-gradient(#049CDB, #004990) !important;}
+.primary.btn {background-image:linear-gradient(#049CDB, #004990) !important; border:1px solid #002244 !important; box-shadow:0 0 3px #76BCFF inset !important;}
+div:hover.primary.btn {background-image:linear-gradient(#004990, #049CDB) !important;}
+ul.image_picker_selector li:hover, ul.thumbnails.image_picker_selector li .thumbnail.selected {background:#004990;}
+ul.image_picker_selector h3 {color:#004990;}
+#dummy-set-1 li:first-child div.thumbnail, #dummy-set-1 li:last-child div.thumbnail, #dummy-set-2 li:first-child div.thumbnail, #dummy-set-3 li:first-child div.thumbnail, #dummy-set-3 li:last-child div.thumbnail, #dummy-set-4 li:first-child div.thumbnail, #dummy-set-4 li:last-child div.thumbnail {display:none;}
+#dummy-set-2 li:first-child {width:10.5%;}
